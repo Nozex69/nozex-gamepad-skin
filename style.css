@@ -1,0 +1,6 @@
+@import url("https://gamepadviewer.com/controllers/xbox/assets/standard/gamepad-base.css");
+
+#controller {
+  background: url("https://tonpseudo.github.io/nozex-gamepad-skin/controller.png") no-repeat center;
+  background-size: contain;
+}
